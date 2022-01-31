@@ -1,1 +1,1 @@
-print("Hi from master")
+print("Hi from feature_b2")
